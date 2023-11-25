@@ -1,0 +1,5 @@
+[app]
+web01 ansible_user=vagrant
+
+[mysql]
+db01 ansible_user=vagrant
